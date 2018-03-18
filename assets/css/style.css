@@ -1,0 +1,11 @@
+/*custom css*/
+
+.req{
+	color:#F00;
+}
+.border-dashed{
+    border-bottom-style: dashed;
+    /* border-bottom: 1px solid; */
+    border-color: rgba(0, 0, 0, 0.78);
+    border-top-style: dashed;
+}
